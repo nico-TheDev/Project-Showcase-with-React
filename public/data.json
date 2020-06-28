@@ -167,6 +167,13 @@
             "level": "Advanced",
             "demo_link": "https://rockpaperscissorsbynico.netlify.app/",
             "repo_link": "https://github.com/theAspiringDev1/RockPaperScissors"
+        },
+        {
+            "title": "Article Preview Component",
+            "img": "./img/article.jpg",
+            "level": "Newbie",
+            "demo_link": "https://article-component.netlify.app/",
+            "repo_link": "https://github.com/theAspiringDev1/Article-Component-"
         }
     ]
 }

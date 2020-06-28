@@ -3,16 +3,28 @@ import Nav from "./components/Nav";
 import Header from "./components/Header";
 import Gallery from "./components/Gallery";
 import Footer from "./components/Footer";
-import challengesData from "./challengesData";
 
 class App extends React.Component {
     constructor() {
         super();
         this.state = {
-            challenges: challengesData.data,
+            challenges:[],
             isDark:true
         };
     }
+
+    async componentDidMount(){
+        const response = await fetch('data.json');
+        const data = await response.json();
+
+        this.setState({
+            challenges:data.data
+        })
+        
+        this.onSort('all');
+    }
+
+
 
     onChange = (text) => {
         console.log(text);
