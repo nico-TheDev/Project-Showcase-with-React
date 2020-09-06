@@ -4,18 +4,18 @@ export class Search extends Component {
     constructor() {
         super();
         this.state = {
-            searchQuery: '',
+            searchQuery: "",
         };
     }
 
-    onChange = (e) =>{
-        this.setState({searchQuery:e.target.value});
+    onChange = (e) => {
+        this.setState({ searchQuery: e.target.value });
         this.props.onSearch(this.state.searchQuery);
-    }
+    };
 
-    onSort = e =>{
+    onSort = (e) => {
         this.props.onSort(e.target.value);
-    }
+    };
 
     render() {
         return (
@@ -25,8 +25,8 @@ export class Search extends Component {
                         type="text"
                         className="search__input"
                         placeholder="Search for challenge.."
-                        onChange = {this.onChange}
-                        onKeyUp = {this.onChange}
+                        onChange={this.onChange}
+                        onKeyUp={this.onChange}
                     />
                     <button className="search__btn">
                         <i className="fas fa-search search__icon"></i>
@@ -35,7 +35,7 @@ export class Search extends Component {
                         name="challenges"
                         id="selectFilter"
                         className="search__filter"
-                        onChange = {this.onSort}
+                        onChange={this.onSort}
                     >
                         <option value="all">All</option>
                         <option value="Newbie">Newbie</option>
