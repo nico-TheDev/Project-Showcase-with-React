@@ -317,7 +317,7 @@ button {
 
 .card {
     width: 15rem;
-    height: 18rem;
+    height: 20rem;
     position: relative;
     -webkit-transition: 800ms ease-in;
     transition: 800ms ease-in;
@@ -344,7 +344,7 @@ button {
 
 .card__cover {
     overflow: hidden;
-    height: 50%;
+    height: 40%;
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
 }
@@ -367,11 +367,11 @@ button {
 }
 
 .card__text {
-    height: 50%;
+    height: 60%;
     background-color: black;
     color: white;
     text-align: center;
-    padding: 1rem;
+    padding:1rem;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;

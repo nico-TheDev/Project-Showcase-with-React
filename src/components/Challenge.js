@@ -1,7 +1,6 @@
 import React from "react";
 
-export default function Challenge({ details,theme }) {
-
+export default function Challenge({ details, theme }) {
     const displayStyle = {
         display: details.isDisplayed ? "block" : "none",
     };
@@ -29,6 +28,7 @@ export default function Challenge({ details,theme }) {
             <div className="card__text" style={theme}>
                 <h2 className="card__title">{details.title}</h2>
                 <p className="card__level">{details.level}</p>
+                <p className="card__level">{details.tech.join(",")}</p>
                 <div className="card__links">
                     <a
                         target="_blank"

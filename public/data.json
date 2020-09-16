@@ -1,6 +1,7 @@
 {
     "data": [
         {
+            "tech": ["HTML", "CSS"],
             "isDisplayed": true,
             "title": "Four Cards Feature",
             "img": "./img/four-card.jpg",
@@ -9,6 +10,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Four-Cards"
         },
         {
+            "tech": ["HTML", "CSS"],
             "isDisplayed": true,
             "title": "Single Price",
             "img": "./img/singleprice.jpg",
@@ -17,6 +19,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Simple-Price-Grid-Challenge"
         },
         {
+            "tech": ["HTML", "CSS"],
             "isDisplayed": true,
             "title": "Huddle Single Landing",
             "img": "./img/huddle-single.jpg",
@@ -25,6 +28,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Huddle-single-landing-page"
         },
         {
+            "tech": ["HTML", "CSS"],
             "isDisplayed": true,
             "title": "Fylo Landing Page",
             "img": "./img/fylo-two-column.jpg",
@@ -33,6 +37,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Fylo-Landing-Page"
         },
         {
+            "tech": ["HTML", "CSS"],
             "isDisplayed": true,
             "title": "Huddle Alternating Column",
             "img": "./img/huddle-alternate.jpg",
@@ -41,6 +46,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Huddle-Landing-Page-with-Alternating-Column"
         },
         {
+            "tech": ["HTML", "CSS"],
             "isDisplayed": true,
             "title": "Fylo Dark Theme",
             "img": "./img/fylo-dark.jpg",
@@ -49,6 +55,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Fylo-dark-theme"
         },
         {
+            "tech": ["HTML", "CSS"],
             "isDisplayed": true,
             "title": "Huddle Curved Sections",
             "img": "./img/huddle-with-curves.jpg",
@@ -57,6 +64,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Huddle-with-Curved-Sections"
         },
         {
+            "tech": ["HTML", "CSS"],
             "isDisplayed": true,
             "title": "Clipboard Landing Page",
             "img": "./img/clipboard.jpg",
@@ -65,6 +73,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Clipboard"
         },
         {
+            "tech": ["HTML", "CSS"],
             "isDisplayed": true,
             "title": "Ping Coming Soon Page",
             "img": "./img/ping.jpg",
@@ -73,6 +82,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Ping-Coming-Soon-Page"
         },
         {
+            "tech": ["HTML", "SCSS"],
             "isDisplayed": true,
             "title": "Social Media Dashboard",
             "img": "./img/dashboard.jpg",
@@ -81,6 +91,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Social-Media-Dashboard"
         },
         {
+            "tech": ["HTML", "CSS"],
             "isDisplayed": true,
             "title": "Base Apparel",
             "img": "./img/apparel.jpg",
@@ -89,6 +100,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Base-Apparel"
         },
         {
+            "tech": ["HTML", "CSS"],
             "isDisplayed": true,
             "title": "Pricing Component",
             "img": "./img/pricing.jpg",
@@ -97,6 +109,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Pricing-Component"
         },
         {
+            "tech": ["HTML", "CSS"],
             "isDisplayed": true,
             "title": "Intro Component Signup",
             "img": "./img/signup.jpg",
@@ -105,6 +118,7 @@
             "repo_link": "https://github.com/theAspiringDev1/intro-component-sign-up-form"
         },
         {
+            "tech": ["HTML", "CSS"],
             "isDisplayed": true,
             "title": "Project Tracking",
             "img": "./img/project.jpg",
@@ -113,6 +127,7 @@
             "repo_link": "https://github.com/theAspiringDev1/project-tracking-intro"
         },
         {
+            "tech": ["HTML", "SCSS"],
             "isDisplayed": true,
             "title": "Insure Landing Page",
             "img": "./img/insure.jpg",
@@ -121,6 +136,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Insure"
         },
         {
+            "tech": ["HTML", "SCSS"],
             "isDisplayed": true,
             "title": "Easybank Landing Page",
             "img": "./img/easybank.jpg",
@@ -129,6 +145,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Easybank-Landing-Page"
         },
         {
+            "tech": ["HTML", "SCSS", "JS"],
             "isDisplayed": true,
             "title": "Bookmark Landing Page",
             "img": "./img/bookmark.jpg",
@@ -137,6 +154,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Bookmark-Landing-Page"
         },
         {
+            "tech": ["HTML", "SCSS", "JS"],
             "isDisplayed": true,
             "title": "Bootcamp Testimonial Slider",
             "img": "./img/slider.jpg",
@@ -145,6 +163,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Coding-Bootcamp-Carousel"
         },
         {
+            "tech": ["HTML", "SCSS", "JS"],
             "isDisplayed": true,
             "title": "Manage Landing Page",
             "img": "./img/manage.jpg",
@@ -153,6 +172,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Manage-Landing-Page"
         },
         {
+            "tech": ["React"],
             "isDisplayed": true,
             "title": "REST Countries API",
             "img": "./img/countries.jpg",
@@ -161,6 +181,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Countries-with-React"
         },
         {
+            "tech": ["React"],
             "isDisplayed": true,
             "title": "Job Listing",
             "img": "./img/joblist.jpg",
@@ -169,6 +190,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Static-Job-Listing"
         },
         {
+            "tech": ["HTML", "SCSS", "JS"],
             "isDisplayed": true,
             "title": "URL Shortener",
             "img": "./img/url.jpg",
@@ -177,6 +199,7 @@
             "repo_link": "https://github.com/theAspiringDev1/URL-Shortening"
         },
         {
+            "tech": ["HTML", "SCSS"],
             "isDisplayed": true,
             "title": "Fylo Storage",
             "img": "./img/storage.jpg",
@@ -185,6 +208,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Fylo-Storage"
         },
         {
+            "tech": ["HTML", "SCSS", "JS"],
             "isDisplayed": true,
             "title": "Rock Paper Scissors",
             "img": "./img/game.jpg",
@@ -193,6 +217,7 @@
             "repo_link": "https://github.com/theAspiringDev1/RockPaperScissors"
         },
         {
+            "tech": ["HTML", "SCSS"],
             "isDisplayed": true,
             "title": "Article Preview Component",
             "img": "./img/article.jpg",
@@ -201,6 +226,7 @@
             "repo_link": "https://github.com/theAspiringDev1/Article-Component-"
         },
         {
+            "tech": ["HTML", "SCSS"],
             "isDisplayed": true,
             "title": "Chat App Illustration",
             "img": "./img/chatapp.jpg",
@@ -209,6 +235,7 @@
             "repo_link": "https://github.com/theAspiringDev1/chat-app-css-illustration-master"
         },
         {
+            "tech": ["TailwindCSS"],
             "isDisplayed": true,
             "title": "Social Proof Section",
             "img": "./img/socialproof.jpg",
@@ -217,6 +244,7 @@
             "repo_link": "https://github.com/theAspiringDev1/social-proof-section-master"
         },
         {
+            "tech": ["React", "TailwindCSS"],
             "isDisplayed": true,
             "title": "IP Address Tracker",
             "img": "./img/iptracker.jpg",
