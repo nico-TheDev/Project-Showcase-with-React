@@ -251,6 +251,15 @@
             "level": "Intermediate",
             "demo_link": "https://ip-address-tracker-with-react.vercel.app/",
             "repo_link": "https://github.com/theAspiringDev1/ip-address-tracker-with-react"
+        },
+        {
+            "tech": ["HTML", "SCSS"],
+            "isDisplayed": true,
+            "title": "FAQ Accordion Card",
+            "img": "./img/accordion.jpg",
+            "level": "Newbie",
+            "demo_link": "https://faq-accordion-card-6ft97o1nd.vercel.app/",
+            "repo_link": "https://github.com/theAspiringDev1/faq-accordion-card-main"
         }
     ]
 }
